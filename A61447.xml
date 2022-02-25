@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A specimen of a declaration against debauchery tendered to the consideration of His Highness the Prince of Orange, and the present convention of the nation.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61447</idno>
+            <idno type="STC">Wing S5442</idno>
+            <idno type="STC">ESTC R232514</idno>
+            <idno type="EEBO-CITATION">20553083</idno>
+            <idno type="OCLC">ocm 20553083</idno>
+            <idno type="VID">109454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 515:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A specimen of a declaration against debauchery tendered to the consideration of His Highness the Prince of Orange, and the present convention of the nation.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Edward Stephens (Socrates Christianus) by Wing.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109454:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>A Specimen OF A DECLARATION AGAINST DEBAUCHERY, Tendered to the CONSIDERATION Of His HIGHNESS the Prince of Orange, And of the Preſent Convention of the Nation.</head>
+            <p>IT is certain and apparent, that <hi>the Religion of the Papiſts</hi> gives great <hi>Encouragement to Vice and Debauchery,</hi> and more eſpecially by their abuſe and Corruption of the true and Antient Chriſtian Diſcipline, and the facility of obtaining
+<pb n="2" facs="tcp:109454:2"/>
+               <!-- PDF PAGE 14 -->
+               <hi>Abſolutions</hi> and <hi>Indulgences</hi> amongſt them; and it hath been long believed, and not without reaſon, that <hi>one of the ſecret Policies of their Myſtery of Iniquity,</hi> whereby they have en<g ref="char:EOLhyphen"/>deavoured for many years paſt to impoſe their Religion again upon theſe Nations, hath been firſt to introduce a torrent of Debauchery and Neglect, or even Contempt of all Religion, thereby the better to diſpoſe the People for the readmiſſion of theirs.</p>
+            <p>If this be ſo, it might reaſonably be expected that the very <hi>Indignation,</hi> which the greateſt part of theſe Nations have juſtly conceived <hi>againſt Popery,</hi> ſhould prevail to the utter extirpation of ſo groſs Effects of it, and of thoſe Abuſes, whereby the Popiſh Agents, after the example of <hi>Balaam,</hi> have ſo perniciouſly impoſed upon them.</p>
+            <p>And were it not ſo, yet <hi>Reaſon and the very Profeſſion, which theſe Nations generally make of Civility and Reli<g ref="char:EOLhyphen"/>gion,</hi> ought no leſs to prevail with all who have any ſenſe of either; For nothing can be more irrational, abſurd, unmanly and baſe, than for men to make profeſſion of Civility, and in their behaviour expreſs ſo much toward mortal men, their Su<g ref="char:EOLhyphen"/>periours, or even but their equals, and yet be rude toward the moſt Excellent and Tranſcendent Majeſty of all, by profaning his moſt Sacred Name; to profeſs themſelves Chriſtians, and yet by their Word and Actions to contradict their Profeſſion, and ſo demonſtrate either the Hypocriſy thereof in profeſſing to believe what in Truth they do not, or their Puſillanimity in acting contrary thereunto in a baſe Compliance with vicious Perſons or Cuſtoms.</p>
+            <p>But beſides, theſe are things ſo abominable and <hi>diſpleaſing to the Sacred Majeſty of God,</hi> and ſo inconſiſtant with ſin<g ref="char:EOLhyphen"/>cere Chriſtianity, that having been ſo far ſpread, and with ſo un<g ref="char:EOLhyphen"/>chriſtian
+<pb n="3" facs="tcp:109454:2"/>
+               <!-- PDF PAGE 14 -->Connivance, theſe whole Nations had juſt reaſon to fear from the juſt <hi>Judgments</hi> of God a moſt ſevere <hi>Scourge</hi> to purge them out, rather than to hope from his <hi>Mercy</hi> ſo great a <hi>Deliverance</hi> from the Inſtruments of his Vengeance, and from that Rod which hath ſo long appeared ſo terrible over them.</p>
+            <p>Wherefore ſince it hath pleaſed God in great Mercy, and by his Special Providence to bleſs our <g ref="char:V">Ʋ</g>ndertakings with ſo Ex<g ref="char:EOLhyphen"/>traordinary ſucceſs againſt the Instruments of Slavery, Popery and Debauchery, we hold our ſelf obliged as well in Duty and Gra<g ref="char:EOLhyphen"/>titude to God, as in providence for the good of theſe Nations, and for the more effectual removal of all advantages from ſuch evil Inſtruments, to <hi>DECLARE</hi> that as we have taken Arms, rather againſt the Errors, Abuſes, and evil Deſigns, than Perſons of the Papiſts, (to whom we ſhall be always ready to ſhew all Chriſtian Clemency that their good and Chriſtian be<g ref="char:EOLhyphen"/>haviour ſhall deſerve) ſo we are reſolved that while we pro<g ref="char:EOLhyphen"/>tect the Perſons, Religion, Rights and Liberties of the Pro<g ref="char:EOLhyphen"/>teſtants, we will not in the leaſt connive at or tolerate their Vices or Debauchery, but proſecute the ſame as far as in us ly<g ref="char:EOLhyphen"/>eth, with all Indignation and Severity of condign Puniſhment of all we ſhall find guilty thereof.</p>
+            <p>And to that end, as we do <hi>expect</hi> from all <hi>Civil Magiſtrates,</hi> that they do faithfully and impartially diſcharge their Duty to God and their Country, in the due execution of all Laws already in force againſt Swearing, Profane or obſcene Speeches and Diſcourſes, Drunkenneſs, and all other Debauchery, and hope that the next Parliament will make ſuch further proviſion of ſevere Penalties, as ſhall be neceſſary in that reſpect, ſo in the mean time we do <hi>ſtrictly Require and Command all Officers and Souldiers</hi> in our Army or Service, that they do inſtantly, upon the Publication of this our Declaration, reform their Manners accordingly; and that all Colonels and Captains
+<pb n="4" facs="tcp:109454:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->do cauſe this our Declaration to be openly Read in the hearing of their reſpective Regiments, Troops and Companies, and that thereupon they and all other Officers, do execute a ſtrict Diſci<g ref="char:EOLhyphen"/>pline and Correction upon all Souldiers, who ſhall be found to offend againſt the ſame. But to all others, whether they came in with us, or have ſince come in to our Service, (for in that reſpect we ſhall make no difference,) who ſhall behave them<g ref="char:EOLhyphen"/>ſelves ſoberly, virtuouſly, and as becomes Men and Chriſtian Souldiers, we ſhall give all the Encouragement of good Employ<g ref="char:EOLhyphen"/>ment, due Pay, and all neceſſary Accommodations, that can in reaſon be <hi>expected</hi> or <hi>deſired.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
